@@ -1,9 +1,9 @@
 
 let name = "Jack"
 
-function say_hello() {
-  console.log(`hello, ${name}`)
+function say_hi() {
+  console.log(`hi, ${name}`)
 }
 
-say_hello()
+say_hi()
 
